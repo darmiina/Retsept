@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Raleway:wght@300&display=swap');
+
+body {
+    background-color:lightyellow;
+    margin: 0 auto;
+}
+
+.heading { 
+    text-align: center;
+    font-family: 'Bebas Neue', cursive;
+    font-size: 1.5rem;
+    color: rgb(73, 70, 70);
+}
+
+.paragraph {
+    text-align: center;
+    font-family: 'Raleway', sans-serif;
+}
+
+.ingridient {
+    text-align: center;
+    border: 2px solid gray;
+    margin: 0 auto;
+    font-family: 'Raleway', sans-serif;
+
+}
+
+.instructions {
+    text-align: center;
+    font-family: 'Raleway', sans-serif;
+}
+
+.link {
+    text-align: center;
+    font-family: 'Raleway', sans-serif;
+}
+
+.footer {
+    text-align: center;
+    font-size: 1rem;
+    font-family: 'Raleway', sans-serif;
+    color:darkslateblue;
+}
